@@ -36,6 +36,3 @@ python expense_tracker.py delete 1
 - click
 - tabulate
 
-## License
-
-MIT
